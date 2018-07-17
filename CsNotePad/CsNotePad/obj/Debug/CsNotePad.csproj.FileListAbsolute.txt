@@ -1,0 +1,13 @@
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\bin\Debug\CsNotePad.exe.config
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\bin\Debug\CsNotePad.exe
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\bin\Debug\CsNotePad.pdb
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.csprojResolveAssemblyReference.cache
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.Form1.resources
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.Properties.Resources.resources
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.csproj.GenerateResource.Cache
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.exe
+c:\users\obidjon\documents\visual studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.pdb
+C:\Users\Obidjon\Documents\Visual Studio 2015\Projects\CsNotePad\CsNotePad\obj\Debug\CsNotePad.FormFInd.resources
+\\Mac\Home\Downloads\폴더\교통대\2017 1학기\윈도우즈프로그래밍\CsNotePad\CsNotePad\CsNotePad\bin\Debug\CsNotePad.exe.config
+\\Mac\Home\Downloads\폴더\교통대\2017 1학기\윈도우즈프로그래밍\CsNotePad\CsNotePad\CsNotePad\obj\Debug\CsNotePad.exe
+\\Mac\Home\Downloads\폴더\교통대\2017 1학기\윈도우즈프로그래밍\CsNotePad\CsNotePad\CsNotePad\obj\Debug\CsNotePad.pdb
